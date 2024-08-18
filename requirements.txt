@@ -1,8 +1,8 @@
 streamlit
 pandas
-numpy
+numpy==1.23.5
 plotly
-prophet
+prophet==1.1.4
 scipy
 scikit-learn
 holidays
