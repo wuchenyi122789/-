@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 plotly
-fbprophet
+prophet
 scipy
 scikit-learn
 holidays
